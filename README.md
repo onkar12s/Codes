@@ -68,7 +68,7 @@ create_dictionary.py: Create a dictionary where keys are the first characters an
  - [Sum of Cosine Series](https://github.com/onkar12s/Codes/blob/main/Series%20Problems/Sum%20of%20Cosine%20Series)
  - [Sum of Series 1](https://github.com/onkar12s/Codes/blob/main/Series%20Problems/Sum%20of%20Series%201)
 - [Sum of Series 2](https://github.com/onkar12s/Codes/blob/main/Series%20Problems/Sum%20of%20Series%202)
-- [Sum of Series 3](hhttps://github.com/onkar12s/Codes/blob/main/Series%20Problems/Sum%20of%20Series%203)
+- [Sum of Series 3](https://github.com/onkar12s/Codes/blob/main/Series%20Problems/Sum%20of%20Series%203)
 - [Sum of Sine Series](https://github.com/onkar12s/Codes/blob/main/Series%20Problems/Sum%20of%20Sine%20Series)
 
 Feel free to submit a pull request on GitHub if you want to help with this project. From bug fixes to new features, all contributions are appreciated.
