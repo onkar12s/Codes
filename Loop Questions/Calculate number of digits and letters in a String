@@ -1,0 +1,31 @@
+# Python program that accepts a string and calculates the number of digits and letters.
+# take string input from user
+user_input = input()
+ 
+# declare 2 variable to store
+# letters and digits
+digits = 0
+letters = 0
+ 
+# iterate through the input string
+for i in user_input:
+ 
+    # check if the character
+    # is a digit using
+    # the isdigit() method
+    if i.isdigit():
+ 
+        # if true, increment the value
+        # of digits variable by 1
+        digits=digits+1
+ 
+    # check if the character
+    # is an alphabet using
+    # the isalpha() method
+    elif i.isalpha():
+ 
+        # if true, increment the value
+        # of letters variable by 1
+        letters=letters+1
+ 
+print(" The input string",user_input, "has", letters, "letters and", digits,"digits.")
