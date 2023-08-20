@@ -1,5 +1,4 @@
-# Codes
-# PythonCodesPractice (Readme File)
+# Codes (Readme File)
 
 Welcome to Codes Repository! This repository is a collection of Python programs covering a wide range of topics, from number theory to string manipulation
 
